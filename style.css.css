@@ -1,0 +1,13 @@
+.firebase_img{
+    text-align: center;
+    vertical-align: middle;
+    border-style: none;
+    width: 38%;
+    margin: auto;
+    margin-left: 28%;
+    margin-top: 22%;
+}
+#result-box{
+   display:none;
+   
+}
